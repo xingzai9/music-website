@@ -10,6 +10,6 @@
     </resultMap>
 
     <sql id="Base_Column_List">
-        id,pic
+        id ,pic
     </sql>
 </mapper>
